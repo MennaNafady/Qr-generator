@@ -5,7 +5,7 @@ A simple Node.js project that:
 - Generates a QR code image for that URL.
 - Saves the URL in a text file.
 
-Built using Node.js, npm, and ES Modules.
+Built using **Node.js**, **npm**, and **ES Modules**.
 
 
 
@@ -34,3 +34,6 @@ Built using Node.js, npm, and ES Modules.
 
 3- run the project 
 3.1.node index.js
+
+<img width="330" height="332" alt="image" src="https://github.com/user-attachments/assets/194200ec-30a1-430f-ac73-9036635f757a" />
+
