@@ -35,5 +35,6 @@ Built using **Node.js**, **npm**, and **ES Modules**.
 3- run the project 
 3.1.node index.js
 
+Example output:
 <img width="330" height="332" alt="image" src="https://github.com/user-attachments/assets/194200ec-30a1-430f-ac73-9036635f757a" />
 
